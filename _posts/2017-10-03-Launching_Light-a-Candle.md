@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Light a Candle" Launches Site"
+date: 2017-10-03
 ---
 
 I am very excited to be following the directions at Jonathan McGlowne's site [Creating and Hosting a Personal Website on Github](http://jmcglone.com/guides/github-pages/)
