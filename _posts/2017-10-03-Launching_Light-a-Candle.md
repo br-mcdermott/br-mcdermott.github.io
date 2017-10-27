@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light a Candle" Launches Site"
+title: "Loaves and Fishes" Launches Site"
 date: 2017-10-03
 ---
 
