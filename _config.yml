@@ -1,2 +1,4 @@
 name: Brigid McDermott "Light a Candle"
 markdown: kramdown
+
+theme: jekyll-theme-architect
